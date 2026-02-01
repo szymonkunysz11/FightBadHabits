@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507523303758",
+    "project_id": "fightbadhabits",
+    "storage_bucket": "fightbadhabits.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507523303758:android:e00d26080ec2d7c663361f",
+        "android_client_info": {
+          "package_name": "com.example.fightbadhabits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD03PBkWkQrTz8BupqCBOCB8MfknPhdsvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
